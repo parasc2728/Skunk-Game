@@ -1,13 +1,13 @@
 # Skunk-Game
 A Java implementation of a customized Skunk dice game, designed with an engaging risk-and-reward mechanic. Players must choose wisely—stay safe, or risk it all for more points!
-**Game Highlights**
+# **Game Highlights**
   Multiplayer support with dynamic decision-making
   Interactive turn structure where all players decide to "stay" or "risk"
   Real-time dice roll simulation
   Strategic elimination and scoring system
   Clean and modular Java code using OOP principles
   
-**Custom Rules**
+# **Custom Rules**
   At the start of each round, all players choose to either stay or risk.
   Only players who choose "risk" will see the outcome of the dice roll.
   Two dice are rolled:
